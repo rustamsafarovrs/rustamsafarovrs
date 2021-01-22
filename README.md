@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Rustam - aka @rustamsafarovrs👋
+### Hi there my name is Rustam - aka @rustamsafarovrs👋
 ### I'm android developer and work in [IBT](https://ibt.tj)
 <!--
 **rustamsafarovrs/rustamsafarovrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -20,6 +20,7 @@
 <img align="left" alt="Android Studio" width="24px" src="https://developer.android.com/studio/images/studio-icon.svg" />
 <img align="left" alt="Gradle" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Java" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
+<img align="left" alt="Java Spring" width="24px" src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" />
 <img align="left" alt="Kotlin" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1200px-Kotlin-logo.svg.png" />
 <img align="left" alt="XML" width="24px" src="https://image.flaticon.com/icons/png/512/29/29611.png" />
 <img align="left" alt="VS Code" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
