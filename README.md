@@ -31,6 +31,7 @@
 <img align="left" alt="PHP" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
 <img align="left" alt="GIT" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="Heroku" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" />
+<img align="left" alt="Power BI" width="24px" src="https://static.wikia.nocookie.net/logopedia/images/2/2c/Microsoft_Power_BI_%282020%29.svg" />
 
 <br />
 
