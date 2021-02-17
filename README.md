@@ -43,4 +43,4 @@
 
 ### Statistics
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=rustamsafarovrs)](https://github.com/rustamsafarovrs)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=rustamsafarovrs)](https://github.com/rustamsafarovrs) [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=rustamsafarovrs&layout=compact)](https://github.com/rustamsafarovrs/github-readme-stats)
