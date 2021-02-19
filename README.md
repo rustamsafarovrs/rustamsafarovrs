@@ -36,9 +36,10 @@
 <br />
 
 ### 💻  My latest work:
-- [Tojikon Radio](https://tojikon.radio)
-- [Tojikon](https://play.google.com/store/apps/details?id=tj.rs.devteam.tojikon)
-- [Омузиши англиси](https://play.google.com/store/apps/details?id=tj.rs.learnenglishword)
+- [Diyor (2021)](https://play.google.com/store/apps/details?id=tj.rs.devteam.diyor)
+- [Tojikon Radio (2020)](https://tojikon.radio)
+- [Tojikon (2020)](https://play.google.com/store/apps/details?id=tj.rs.devteam.tojikon)
+- [Омузиши англиси (2018)](https://play.google.com/store/apps/details?id=tj.rs.learnenglishword)
 <br/>
 
 ### Statistics
