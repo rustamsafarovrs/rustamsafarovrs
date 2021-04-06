@@ -21,7 +21,7 @@
 <img align="left" alt="Gradle" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Java" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
 <img align="left" alt="Java Spring" width="24px" src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" />
-<img align="left" alt="Kotlin" width="24px" src="https://commons.wikimedia.org/wiki/File:Kotlin_Icon.svg" />
+<img align="left" alt="Kotlin" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" />
 <img align="left" alt="XML" width="24px" src="https://image.flaticon.com/icons/png/512/29/29611.png" />
 <img align="left" alt="VS Code" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="HTML" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
