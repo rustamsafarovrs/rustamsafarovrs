@@ -45,4 +45,6 @@
 
 ### Statistics
 
+![](https://komarev.com/ghpvc/?username=rustamsafarovrs&color=blue&style=flat)
+
 [![My github stats](https://github-readme-stats.vercel.app/api?username=rustamsafarovrs&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/rustamsafarovrs) [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=rustamsafarovrs&layout=compact)](https://github.com/rustamsafarovrs/github-readme-stats)
