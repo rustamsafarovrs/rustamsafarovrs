@@ -37,6 +37,7 @@
 <br />
 
 ### 💻  My latest work:
+- [SafeCleaning (2021)](https://safecleaning.ru)
 - [Diyor (2021)](https://play.google.com/store/apps/details?id=tj.rs.devteam.diyor)
 - [Tojikon Radio (2020)](https://tojikon.radio)
 - [Tojikon (2020)](https://play.google.com/store/apps/details?id=tj.rs.devteam.tojikon)
