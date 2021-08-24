@@ -37,11 +37,11 @@
 <br />
 
 ### 💻  My latest work:
-- [SafeCleaning (2021)](https://safecleaning.ru)
-- [Diyor (2021)](https://play.google.com/store/apps/details?id=tj.rs.devteam.diyor)
-- [Tojikon Radio (2020)](https://tojikon.radio)
-- [Tojikon (2020)](https://play.google.com/store/apps/details?id=tj.rs.devteam.tojikon)
-- [Омузиши англиси (2018)](https://play.google.com/store/apps/details?id=tj.rs.learnenglishword)
+- [SafeCleaning (2021)](https://safecleaning.ru) Stack: Angular, GAnalitycs, TelegramBot
+- [Diyor (2021)](https://play.google.com/store/apps/details?id=tj.rs.devteam.diyor) Stack: Android, Jetpack, ExoPlayer, Notification 
+- [Tojikon Radio (2020)](https://tojikon.radio) Stack: HTML, CSS
+- [Tojikon (2020)](https://play.google.com/store/apps/details?id=tj.rs.devteam.tojikon) Stack: Android, Jetpack, ExoPlayer, Notification 
+- [Омузиши англиси (2018)](https://play.google.com/store/apps/details?id=tj.rs.learnenglishword) Stack: Android
 <br/>
 
 ### Statistics
