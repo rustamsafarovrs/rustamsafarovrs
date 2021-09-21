@@ -3,8 +3,8 @@
 <!--
 **rustamsafarovrs/rustamsafarovrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on several Java/Android projects, writing some microservices
-- 🌱 I’m currently learning Angular and improving skills in Java 
+- 🔭 I’m currently working on several Java/Android projects, writing some microservices and Android apps
+- 🌱 I’m currently learning Swift and improving skills in Android and Java
 
 ### 📱 Connect with me:
 
