@@ -47,5 +47,3 @@
 ### Statistics
 
 ![](https://komarev.com/ghpvc/?username=rustamsafarovrs&color=blue&style=flat) [![wakatime](https://wakatime.com/badge/user/bf9a2dba-fab5-4c8d-962b-d085afe7493f.svg)](https://wakatime.com/@bf9a2dba-fab5-4c8d-962b-d085afe7493f)
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=rustamsafarovrs&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/rustamsafarovrs) [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=rustamsafarovrs&layout=compact)](https://github.com/rustamsafarovrs/github-readme-stats)
