@@ -3,7 +3,7 @@
 <!--
 **rustamsafarovrs/rustamsafarovrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on several Java/Android projects, writing some microservices and Android apps
+- 🔭 I’m currently working on several Java/Android projects, writing Android apps
 - 🌱 I’m currently learning Swift and improving skills in Android and Java
 
 ### 📱 Connect with me:
@@ -27,8 +27,8 @@
 <br />
 
 ### 💻  My latest work:
-- [Theeye (2022)](https://play.google.com/store/apps/details?id=live.theeye.android)
-- [Payvand (2021)](https://play.google.com/store/apps/details?id=tj.payvand.app)
+- [Theeye (2022)](https://play.google.com/store/apps/details?id=live.theeye.android) Stack: Android
+- [Payvand (2021)](https://play.google.com/store/apps/details?id=tj.payvand.app) Stack: Android
 - [SafeCleaning (2021)](https://safecleaning.ru) Stack: Angular, GAnalitycs, TelegramBot
 - [Diyor (2021)](https://play.google.com/store/apps/details?id=tj.rs.devteam.diyor) Stack: Android, Jetpack, ExoPlayer, Notification 
 - [Tojikon Radio (2020)](https://tojikon.radio) Stack: HTML, CSS
