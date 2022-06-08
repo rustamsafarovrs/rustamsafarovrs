@@ -39,3 +39,6 @@
 ### Statistics
 
 ![](https://komarev.com/ghpvc/?username=rustamsafarovrs&color=blue&style=flat) [![wakatime](https://wakatime.com/badge/user/bf9a2dba-fab5-4c8d-962b-d085afe7493f.svg)](https://wakatime.com/@bf9a2dba-fab5-4c8d-962b-d085afe7493f)
+
+### Hire
+<img align="left" width="24px" src="https://www.freelancer.com/static/css/images/landingpage/hireme-widget-builder/fl-bird-icon.png" />[Hire me on Freelancer.com](https://www.freelancer.com/hireme/rustamsafarov)
