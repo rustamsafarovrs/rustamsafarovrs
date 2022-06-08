@@ -21,7 +21,6 @@
 <img align="left" alt="Gradle" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Java" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
 <img align="left" alt="Kotlin" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" />
-<img align="left" alt="JS" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="GIT" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 
 <br />
@@ -41,4 +40,4 @@
 ![](https://komarev.com/ghpvc/?username=rustamsafarovrs&color=blue&style=flat) [![wakatime](https://wakatime.com/badge/user/bf9a2dba-fab5-4c8d-962b-d085afe7493f.svg)](https://wakatime.com/@bf9a2dba-fab5-4c8d-962b-d085afe7493f)
 
 ### Hire
-[<img align="left" width="20px" src="https://www.freelancer.com/static/css/images/landingpage/hireme-widget-builder/fl-bird-icon.png" /> Hire me on Freelancer.com](https://www.freelancer.com/hireme/rustamsafarov)
+[<img align="left" height="20px" src="https://www.freelancer.com/static/css/images/landingpage/hireme-widget-builder/fl-bird-icon.png" /> Hire me on Freelancer.com](https://www.freelancer.com/hireme/rustamsafarov)
