@@ -1,4 +1,4 @@
-### Hi there my name is Rustam - @rustamsafarovrs👋
+### Hi there my name is Rustam - @rustamsafarovrs 👋
 ### I'm Android developer and work in [IBT](https://ibt.tj)
 <!--
 **rustamsafarovrs/rustamsafarovrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
