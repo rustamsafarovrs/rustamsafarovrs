@@ -9,7 +9,7 @@
 ### 📱 Connect with me:
 
 <!-- [<img align="left" alt="@rustamsafarovrs| Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />](https://t.me/rustamsafarovrs/) -->
-[<img align="left" alt="@rustamsafarovrs | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/twitter.svg" />](https://twitter.com/rustam_safarov_)
+[<img align="left" alt="@rustamsafarovrs | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/twitter.svg" />](https://twitter.com/rustamsafarovrs)
 <!-- [<img align="left" alt="@rustamsafarovrs | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/facebook.svg" />](https://www.facebook.com/rustam.safarov.rs/) -->
 [<img align="left" alt="@rustamsafarovrs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/linkedin.svg" />](https://www.linkedin.com/in/rustamsafarovrs/)
 
