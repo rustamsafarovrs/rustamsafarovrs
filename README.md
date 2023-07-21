@@ -16,10 +16,10 @@
 <br />
 
 ### 🛠 Language and Tools:
-<img align="left" alt="Android" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" />
+<img align="left" alt="Android" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" />
 <img align="left" alt="Android Studio" width="24px" src="https://developer.android.com/studio/images/studio-icon.svg" />
 <img align="left" alt="Gradle" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" />
-<img align="left" alt="Java" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
+<img align="left" alt="Java" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" alt="Kotlin" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" />
 <img align="left" alt="GIT" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 
