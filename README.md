@@ -26,6 +26,7 @@
 <br />
 
 ### 💻  My latest work:
+- [Inmuslim (2023)](https://play.google.com/store/apps/details?id=tj.rsdevteam.inmuslim) Stack: Android, Jetpack Compose
 - [PayvandTransfer (2023)](https://play.google.com/store/apps/details?id=tj.payvand.transfer) Stack: Android
 - [Theeye (2022)](https://play.google.com/store/apps/details?id=live.theeye.android) Stack: Android
 - [SafeCleaning (2021)](https://safecleaning.ru) Stack: Angular, GAnalitycs, TelegramBot
