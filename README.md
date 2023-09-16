@@ -4,7 +4,7 @@
 **rustamsafarovrs/rustamsafarovrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on several Java/Android projects, writing Android apps
-- 🌱 I’m currently learning Swift and improving skills in Android and Java
+- 🌱 I’m currently learning Spring Boot and improving skills in Android and Java
 
 ### 📱 Connect with me:
 
