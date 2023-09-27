@@ -1,16 +1,14 @@
 ### Hi there my name is Rustam - @rustamsafarovrs 👋
-### I'm Android developer and work in [IBT](https://ibt.tj)
-<!--
-**rustamsafarovrs/rustamsafarovrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!--### I'm Android developer and work in [IBT](https://ibt.tj)
 
+**rustamsafarovrs/rustamsafarovrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!--
 - 🔭 I’m currently working on several Java/Android projects, writing Android apps
 - 🌱 I’m currently learning Spring Boot and improving skills in Android and Java
 
 ### 📱 Connect with me:
 
-<!-- [<img align="left" alt="@rustamsafarovrs| Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />](https://t.me/rustamsafarovrs/) -->
 [<img align="left" alt="@rustamsafarovrs | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/twitter.svg" />](https://twitter.com/rustamsafarovrs)
-<!-- [<img align="left" alt="@rustamsafarovrs | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/facebook.svg" />](https://www.facebook.com/rustam.safarov.rs/) -->
 [<img align="left" alt="@rustamsafarovrs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/linkedin.svg" />](https://www.linkedin.com/in/rustamsafarovrs/)
 
 <br />
@@ -35,7 +33,7 @@
 - [Tojikon (2020)](https://play.google.com/store/apps/details?id=tj.rs.devteam.tojikon) Stack: Android, Jetpack, ExoPlayer, Notification 
 - [Омузиши англиси (2018)](https://play.google.com/store/apps/details?id=tj.rs.learnenglishword) Stack: Android
 <br/>
-
+-->
 ### Statistics
 
 ![](https://komarev.com/ghpvc/?username=rustamsafarovrs&color=blue&style=flat) [![wakatime](https://wakatime.com/badge/user/bf9a2dba-fab5-4c8d-962b-d085afe7493f.svg)](https://wakatime.com/@bf9a2dba-fab5-4c8d-962b-d085afe7493f)
